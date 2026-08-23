@@ -1,6 +1,8 @@
 ## Design and Analysis of Algorithm (DAA) Lab
 Name: Priyanshu Pradhan
+
 ID: B125088
+
 Semester: 3rd 
 
 ## About
